@@ -1,2 +1,2 @@
-# AVFundationPractice
-学习AVFundation时的demo
+# AVFoundationPractice
+学习AVFoundation时的demo
